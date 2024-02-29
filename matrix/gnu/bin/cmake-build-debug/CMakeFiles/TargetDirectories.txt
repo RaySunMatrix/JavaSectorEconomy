@@ -1,0 +1,3 @@
+/home/admin/NetBeansProjects/JavaSectorEconomy/cmake-build-debug/CMakeFiles/JavaSectorEconomy.dir
+/home/admin/NetBeansProjects/JavaSectorEconomy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/NetBeansProjects/JavaSectorEconomy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
